@@ -1,7 +1,7 @@
 Package: poisbinom
 Type: Package
 Title: A Faster Implementation of the Poisson-Binomial Distribution
-Version: 1.0.0
+Version: 1.0.1
 Date: 2017-05-16
 Author: Santiago Olivella [aut, cre],
 	Yuki Shiraito [aut, cre]
@@ -12,6 +12,6 @@ Imports: Rcpp (>= 0.12.10)
 SystemRequirements: fftw (>= 3)
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2017-05-16 17:47:13 UTC; olivella
+Packaged: 2017-05-19 04:01:16 UTC; olivella
 Repository: CRAN
-Date/Publication: 2017-05-16 19:05:49 UTC
+Date/Publication: 2017-05-19 05:59:03 UTC
